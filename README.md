@@ -9,7 +9,12 @@ Somos um grupo de desenvolvedores apaixonados por tecnologia e inovação. Nosso
 - 💻 **Amitair Ferreira** - | [GitHub](https://github.com/amitairferreira)
 - 💻 **Caio Arruda** - | [GitHub](https://github.com/CaioFSA)
 
-## 🚀 Tecnologiasg
+## Projetos
+App de delivery DBFOOD
+App de marmitas Marmibox
+App de stream (secreto)
+
+## 🚀 Tecnologias
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
